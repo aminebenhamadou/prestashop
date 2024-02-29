@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>formclient</name>
+	<displayName><![CDATA[formClient]]></displayName>
+	<version><![CDATA[8.0.4]]></version>
+	<description><![CDATA[Modifier le formulaire client]]></description>
+	<author><![CDATA[Amine]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

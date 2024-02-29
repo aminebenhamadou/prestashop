@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>securite</name>
+	<displayName><![CDATA[securite]]></displayName>
+	<version><![CDATA[8.0.4]]></version>
+	<description><![CDATA[Sécurisation de la code source]]></description>
+	<author><![CDATA[Prestashop]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
